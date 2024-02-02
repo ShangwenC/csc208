@@ -10,7 +10,15 @@
 
 *Which troll is which?*
 
-Full disclosure, I found the answers to this on google [here (lesson notes)](https://pld.cs.luc.edu/courses/163/prev/notes/01.html) and [here (reddit...)](https://www.reddit.com/r/learnmath/comments/lr84b3/please_help_me_understand_this_troll_riddle_i_am/)
+**Full disclosure, I found the answers to this on google [here (lesson notes)](https://pld.cs.luc.edu/courses/163/prev/notes/01.html) and [here (reddit...)](https://www.reddit.com/r/learnmath/comments/lr84b3/please_help_me_understand_this_troll_riddle_i_am/)**
+
+What do we already know for sure? Troll 3 must be correct.
+
+Considering this, we can either assume Troll 1 is telling the truth or lying and work from there.
+
+If 1 = TRUE, 2 = FALSE and 3 = TRUE. There are no contradictions here.
+
+If 1 = FALSE, then 2 and 3 must not be both TRUE. Then, 2 must be FALSE, because 3 is always TRUE. However, if 2 is FALSE then 1 must be TRUE, and we have assumed 1 is FALSE.
 
 Essentially, this section covers the types of mathematical statements, and explains that the higher level math you go, the less numbers and more words you find in your problems.
 
