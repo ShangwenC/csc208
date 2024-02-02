@@ -10,6 +10,8 @@
 
 *Which troll is which?*
 
+Full disclosure, I found the answers to this on google [here (lesson notes)](https://pld.cs.luc.edu/courses/163/prev/notes/01.html) and [here (reddit...)](https://www.reddit.com/r/learnmath/comments/lr84b3/please_help_me_understand_this_troll_riddle_i_am/)
+
 Essentially, this section covers the types of mathematical statements, and explains that the higher level math you go, the less numbers and more words you find in your problems.
 
 **Next presentation: ___**
