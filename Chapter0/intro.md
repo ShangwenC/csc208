@@ -22,6 +22,8 @@ If 1 = FALSE, then 2 and 3 must not be both TRUE. Then, 2 must be FALSE, because
 
 <ins>Essentially, this section covers the types of mathematical statements, and explains that the higher level math you go, the less numbers and more words you find in your problems.</ins>
 
-**Next presentation: ___**
+**Next presentation: [Atomic and Molecular Statements](https://codeberg.org/turner-h/csc208/src/branch/main/book_presentations/0.2_pres.md)**
 
-Other presentations in 0.2: _____ _____ [Implications pt 2](https://github.com/CalebNeal07/csc208/blob/main/0.2-Implications.md)
+Other presentations in 0.2: [Atomic and Molecular Statements](https://codeberg.org/turner-h/csc208/src/branch/main/book_presentations/0.2_pres.md), [Implications 1](https://github.com/thirdball/csc208/blob/main/math.md), [Implications 2](https://github.com/CalebNeal07/csc208/blob/main/0.2-Implications.md), Predicates and Quantifiers, Exercises
+
+<ins>LINKS UPDATED AS OF 2/4/2024</ins>
