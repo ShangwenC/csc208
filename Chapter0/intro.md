@@ -24,4 +24,4 @@ If 1 = FALSE, then 2 and 3 must not be both TRUE. Then, 2 must be FALSE, because
 
 **Next presentation: ___**
 
-Other presentations in 0.2: _____ _____ ____
+Other presentations in 0.2: _____ _____ [Implications pt 2](https://github.com/CalebNeal07/csc208/blob/main/0.2-Implications.md)
