@@ -25,7 +25,6 @@ Essentially, this section covers the types of mathematical statements, and expla
 
 **Next presentation: [Atomic and Molecular Statements](https://codeberg.org/turner-h/csc208/src/branch/main/book_presentations/0.2_pres.md)**
 
-Other presentations in 0.2: _____ _____ [Implications pt 2](https://github.com/CalebNeal07/csc208/blob/main/0.2-Implications.md)
 Other presentations in 0.2: [Atomic and Molecular Statements](https://codeberg.org/turner-h/csc208/src/branch/main/book_presentations/0.2_pres.md), [Implications 1](https://github.com/thirdball/csc208/blob/main/math.md), [Implications 2](https://github.com/CalebNeal07/csc208/blob/main/0.2-Implications.md), Predicates and Quantifiers, Exercises
 
 <ins>LINKS UPDATED AS OF 2/4/2024</ins>
