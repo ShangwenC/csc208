@@ -1,4 +1,5 @@
 # A Review of Mathematical Statements
+Shangwen Cheng
 
 *While walking through a fictional forest, you encounter three trolls guarding a bridge. Each is either a knight, who always tells the truth, or a knave, who always lies. The trolls will not let you pass until you correctly identify each as either a knight or a knave. Each troll makes a single statement:*
 
@@ -20,10 +21,8 @@ If 1 = TRUE, 2 = FALSE and 3 = TRUE. There are no contradictions here.
 
 If 1 = FALSE, then 2 and 3 must not be both TRUE. Then, 2 must be FALSE, because 3 is always TRUE. However, if 2 is FALSE then 1 must be TRUE, and we have assumed 1 is FALSE.
 
-<ins>Essentially, this section covers the types of mathematical statements, and explains that the higher level math you go, the less numbers and more words you find in your problems.</ins>
+Essentially, this section covers the types of mathematical statements, and explains that the higher level math you go, the less numbers and more words you find in your problems.
 
-**Next presentation: [Atomic and Molecular Statements](https://codeberg.org/turner-h/csc208/src/branch/main/book_presentations/0.2_pres.md)**
+**Next presentation: ___**
 
-Other presentations in 0.2: [Atomic and Molecular Statements](https://codeberg.org/turner-h/csc208/src/branch/main/book_presentations/0.2_pres.md), [Implications 1](https://github.com/thirdball/csc208/blob/main/math.md), [Implications 2](https://github.com/CalebNeal07/csc208/blob/main/0.2-Implications.md), Predicates and Quantifiers, Exercises
-
-<ins>LINKS UPDATED AS OF 2/4/2024</ins>
+Other presentations in 0.2: _____ _____ ____
