@@ -15,5 +15,22 @@ An important but boring proof of the additive and multiplicative principles. Und
 ## Principle of Inclusion/Exclusion
 Also uses sets
 
+## Subsets
+Subsets are
+
+## Bit Strings
+Strings of binary digits
+
+- length: number of bits
+- weight: number of 1s
+
+## Lattice Paths
+Set of points where (x,y) are integers. Nice grid pattern.
+
+## Binomial Coefficients
+
+## Pascal's Triangle
+Dr. Rankin taught us this!! Hated it though.
+
 ## Excercises
-See [sect1.1.md](link)
+See [sect1.1.md](https://github.com/ShangwenC/csc208/blob/main/ch1_counting/sect1.1.md) [sect1.2.md](https://github.com/ShangwenC/csc208/blob/main/ch1_counting/sect1.2.md)
