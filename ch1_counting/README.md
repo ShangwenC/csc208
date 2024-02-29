@@ -33,4 +33,4 @@ Set of points where (x,y) are integers. Nice grid pattern.
 Dr. Rankin taught us this!! Hated it though.
 
 ## Excercises
-See [sect1.1.md](https://github.com/ShangwenC/csc208/blob/main/ch1_counting/sect1.1.md) [sect1.2.md](https://github.com/ShangwenC/csc208/blob/main/ch1_counting/sect1.2.md)
+See [sect1.1.md](https://github.com/ShangwenC/csc208/blob/main/ch1_counting/sect1.1.md) [sect1.2.md](https://github.com/ShangwenC/csc208/blob/main/ch1_counting/sect1.2.md) [sect1.3.md]()
